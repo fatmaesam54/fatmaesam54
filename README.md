@@ -7,7 +7,7 @@
 
 ### Computer Science Student | Full Stack .NET Trainee | Aspiring AI/ML Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+Developer+in+Progress;Building+Web+Applications+with+C%23+and+.NET;Exploring+Artificial+Intelligence+%26+ML;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B57BFF&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+Developer+in+Progress;Building+Web+Applications+with+C%23+and+.NET;Exploring+Artificial+Intelligence+%26+ML;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/fatmaesam54">
