@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./Hello%20Coders_%20Fatma%E2%80%99s%20Cozy%20Dev%20Desk.png" width="60%" alt="Hello Coders - Fatma Esam" />
+  <img src="./Hello%20Coders_%20Fatma%E2%80%99s%20Cozy%20Dev%20Desk.png" width="100%",hight="50" alt="Hello Coders - Fatma Esam" />
 </div>
 
 # Hi, I'm Fatma Esam 👋
